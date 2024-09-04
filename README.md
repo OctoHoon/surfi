@@ -1,7 +1,6 @@
 # 🏄️ 장소 서핑 SNS 서피(SURFI)
-![서피_포스터](https://github.com/lvecon/surfify/assets/86117225/5523a423-2fe9-421f-971f-946cee5b6632)
-최종 보고서 [프로젝트 최종 보고서.pdf](https://github.com/lvecon/surfify/files/14220132/default.pdf)
 
+![단비아이앤씨_기말포스터](https://github.com/user-attachments/assets/c4dcf083-f3be-48c5-b83e-c7b41fb93e48)
 
 ## 프로젝트 소개
 - 해당 프로젝트는 2023학년도 1학기 컴퓨터공학부 전공 창의적통합설계 수업으로 진행된 프로젝트로, 단비아이앤씨와 매칭되어서 단비아이앤씨가 제공한 서비스컨셉 및 기획안을 바탕으로, 기획안의 요구사항을 만족하는 어플을 개발한 것입니다.
